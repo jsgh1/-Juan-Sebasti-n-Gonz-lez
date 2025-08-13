@@ -1,6 +1,6 @@
 # 📚 Resumen de la Clase – Actividad 1  
 
-## 📄 Resumen General  
+## 📄 Resumen General:  
 En esta sesión se estudiaron conceptos clave de **gestión de código en entornos colaborativos**, con énfasis en el uso de **Merge Requests (MR)** y el flujo de trabajo entre distintos ambientes de desarrollo:  
 **dev** (Desarrollo), **qa** (Pruebas de calidad), **staging** (Preproducción), **main** (Producción) y **project** (Gestión general).  
 
@@ -9,7 +9,7 @@ Finalmente, se asignaron tareas individuales y grupales, incluyendo la elaboraci
 
 ---
 
-## 📌 Temas Trabajados  
+## 📌 Temas Trabajados:  
 
 ### 1. Documentación del trabajo realizado  
 - Registrar cada paso, acción y resultado.  
@@ -40,7 +40,7 @@ Finalmente, se asignaron tareas individuales y grupales, incluyendo la elaboraci
 
 ---
 
-## 📝 Actividad 1 – Tareas Asignadas  
+## 📝 Actividad 1 – Tareas Asignadas: 
 
 1. **README personal**  
    - Crear un repositorio con el mismo nombre que tu *username*.  
